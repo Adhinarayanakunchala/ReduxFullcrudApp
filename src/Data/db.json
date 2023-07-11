@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Adhinarayana",
+      "email": "Adhinarayana@gmail.com",
+      "phone": "8297646347",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "AnilKumar",
+      "email": "Anil@gamil.com",
+      "phone": "7036300467",
+      "role": "staff"
+    },
+    {
+      "name": "Anjali",
+      "email": "Anji@gmail.com",
+      "phone": "8297646347",
+      "role": "admin",
+      "id": 3
+    }
+  ]
+}
